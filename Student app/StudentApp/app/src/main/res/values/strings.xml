@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Student App</string>
+    <string name="title_activity_student_map">StudentMap</string>
+</resources>

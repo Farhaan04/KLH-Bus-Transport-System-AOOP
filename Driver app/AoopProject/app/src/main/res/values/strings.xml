@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aoop Project</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_student_map">StudentMap</string>
+</resources>

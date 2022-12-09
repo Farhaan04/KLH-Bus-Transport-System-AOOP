@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "719808001771",
+    "project_id": "aoop-project-cf5d5",
+    "storage_bucket": "aoop-project-cf5d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719808001771:android:e8e79f9c016c527b7930ae",
+        "android_client_info": {
+          "package_name": "com.example.aoopproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719808001771-uglcpjc72v2rgv264f6tnrna5saule06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_rtYwUwRiDmCXo4gLFd4lhNf1Bg8q0kc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719808001771-uglcpjc72v2rgv264f6tnrna5saule06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
